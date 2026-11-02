@@ -19,8 +19,7 @@ Speech emotion recognition · Edge AI · Privacy-preserving
 Python · TypeScript · React · FastAPI · scikit-learn · TensorFlow · MediaPipe · Kafka · Docker · AWS (Certified Cloud Practitioner) · HiPerGator
 
 ### 📫 Reach me
-linkedin.com/in/honeyreddydaram
-
+[LinkedIn](https://www.linkedin.com/in/honeyreddydaram)
 I'd love to have a chat😄
 
 

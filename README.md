@@ -1,5 +1,7 @@
 ## Hi, I'm Honey 👋
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 Master's student in **Artificial Intelligence Systems** at the **University of Florida**.
 
 I like building AI that helps people, from edge devices to full-stack apps.
@@ -19,7 +21,9 @@ Python · TypeScript · React · FastAPI · scikit-learn · TensorFlow · MediaP
 ### 📫 Reach me
 linkedin.com/in/honeyreddydaram
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+I'd love to have a chat😄
+
+
 
 
 
